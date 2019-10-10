@@ -7,14 +7,14 @@ Release `single-stripe` makes an animation of a single strip of warming stripes,
 &nbsp;
 
 
-Single stripes:
-&nbsp;
+Single stripes:  
+
 [![Animation video](https://img.youtube.com/vi/_O6rq3FAOws/0.jpg)](https://www.youtube.com/watch?v=_O6rq3FAOws)
 
-&nbsp;
-&nbsp;
+&nbsp;  
+&nbsp;  
 
-Double stripes:
-&nbsp;
+Double stripes:  
+
 [![Animation video](https://img.youtube.com/vi/FphWExHvTD4/0.jpg)](https://www.youtube.com/watch?v=FphWExHvTD4)
 
